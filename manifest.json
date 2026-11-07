@@ -1,0 +1,24 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Tetris",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Tetris",
+  "start_url": "/",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/06b6d4/ffffff?text=TETRIS",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
